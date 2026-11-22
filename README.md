@@ -1,3 +1,5 @@
+
+
 # Jura Tourisme — iOS UI Prototype
 
 An interactive SwiftUI prototype designed to make discovering activities and local events in the **Canton of Jura (Switzerland)** simpler and more tailored to individual needs.
@@ -23,6 +25,13 @@ This repository was built in a single afternoon as an experiment to test how far
   * Category filter sheet (`FilterSheet`) and bottom preview cards navigating to activity details (`ActivityView`)
 * **Saved Activities (`LikedView`)**: Dedicated tab for bookmarking favorite activities discovered on the map or search screen.
 * **Settings (`ProfileView`)**: User profile overview, multilingual interface selector (*Français*, *Deutsch*, *English*, *Italiano*), notification/location toggles, and a password change modal (`ChangePasswordView`).
+
+<p align="center">
+ <img width="250" alt="Simulator Screenshot - iPhone 17 - 1" src="https://github.com/user-attachments/assets/b77d225c-2e8c-474a-8992-c405c7f9f1bd" />
+ <img width="250" alt="Simulator Screenshot - iPhone 17 - 2" src="https://github.com/user-attachments/assets/7a8ddf51-0faa-4769-974c-922c5f7b600f" />
+  <img width="250" alt="Simulator Screenshot - iPhone 17 - 3" src="https://github.com/user-attachments/assets/a6d08a1b-a2a0-4f0a-9401-9f93f50d250a" />
+</p>
+
 
 ## Tech Stack
 
